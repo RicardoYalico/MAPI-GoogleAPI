@@ -7,7 +7,7 @@ class Localizacion{
                 callback();
             })
         }else{
-            alert("Tu navegador no soporta feolocalización!")
+            alert("Tu navegador no soporta Geolocalización!")
         }
     }
 }
